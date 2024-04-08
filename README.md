@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GabrielCarvalho570
-- 👀 I’m interested in being the best version of myself, always.
+- 👀 I’m interested in being the best version of myself
 - 🌱 I’m currently learning C++ coding
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
